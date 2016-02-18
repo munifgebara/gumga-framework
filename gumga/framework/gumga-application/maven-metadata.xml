@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>gumga.framework</groupId>
-  <artifactId>gumga-domain</artifactId>
+  <artifactId>gumga-application</artifactId>
   <versioning>
     <versions>
       <version>1.2.5-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20160218170958</lastUpdated>
+    <lastUpdated>20160218171102</lastUpdated>
   </versioning>
 </metadata>
